@@ -1,5 +1,5 @@
 <schedule>
-<version>224</version>
+<version>229</version>
 <conference>
 <acronym>seagl2022</acronym>
 <title>SeaGL 2022</title>
@@ -13,9 +13,9 @@
 <event guid='fG-EyVSoadPh0EOOYifD0g' id='921'>
 <date>2022-11-04T02:10:00-07:00</date>
 <start>09:10</start>
-<duration>00:20</duration>
+<duration>00:25</duration>
 <room>Keynotes</room>
-<type>Keynote</type>
+<type>Opening Keynote</type>
 <language>en</language>
 <slug>921-keynote-aeva-black</slug>
 <title>Keynote: Aeva Black</title>
@@ -48,6 +48,180 @@
 <optout>false</optout>
 </recording>
 <persons>
+</persons>
+</event>
+</room>
+<room name='Room 2'>
+<event guid='ewnrqulGKHqmE-ZH_P_nxA' id='909'>
+<date>2022-11-04T02:40:00-07:00</date>
+<start>09:40</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>909-struggles-and-possible-solutions-of-a-local-free-software-movement</slug>
+<title>Struggles and possible solutions of a local free software movement</title>
+<subtitle>Trying to advocate the free software movement locally has its own struggles and sharing can help the ones who experience similar situations.</subtitle>
+<track>Community</track>
+<abstract>This talk will be based on my experience as a member of the Free Software Association in Turkey. In a local freedom movement, many local factors affect the way that advocacy should be made, such as economical disadvantages, priorities, country dynamics, and the target audience. It is not always feasible to bring software freedom to the table in a country with low digital literacy and major political conflicts. For years, we have defined the problem and come up with some possible solutions, such as inviting already politicised groups to our movement and explaining software freedom in terms of their struggles, that may help other local communities too. Additionally, the Q&amp;A section will allow the audience to share their struggles and discuss possible solutions. The goal of this talk is to help other local communities find possible reasons for their struggles, to show that these struggles are not specific to them, to give them some ideas about possible solutions, and to be inspired by suggestions of the audience.</abstract>
+<description>This talk will be based on my experience as a member of the Free Software Association in Turkey. In a local freedom movement, many local factors affect the way that advocacy should be made, such as economical disadvantages, priorities, country dynamics, and the target audience. It is not always feasible to bring software freedom to the table in a country with low digital literacy and major political conflicts. For years, we have defined the problem and come up with some possible solutions, such as inviting already politicised groups to our movement and explaining software freedom in terms of their struggles, that may help other local communities too. Additionally, the Q&amp;A section will allow the audience to share their struggles and discuss possible solutions. The goal of this talk is to help other local communities find possible reasons for their struggles, to show that these struggles are not specific to them, to give them some ideas about possible solutions, and to be inspired by suggestions of the audience.</description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='1436'>Neslihan Turan</person>
+</persons>
+</event>
+<event guid='KSh0klDTQlBCJJoDLZAheA' id='882'>
+<date>2022-11-04T03:25:00-07:00</date>
+<start>10:25</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>882-free-riders-and-the-motivations-that-keep-oss-developers-writing-code</slug>
+<title>Free-Riders and the Motivations that Keep OSS Developers Writing Code</title>
+<subtitle>A Look at the Collective Action Problem</subtitle>
+<track>Community</track>
+<abstract>Researchers have grown accustomed to exploring the depths of open source software as a public good. The collective action model applies given the nature of provisioning—open source software is non-excludable and non-rivalry (Hippel &amp; Krogh, 2003). Individual contributors author software or code that they and the public at large have free access to utilize as they see fit, while the group can use the software or code without contributing. Given the non-excludability of open source software, this creates free riders—those who benefit from that good on equal terms with those who contribute (Hardin &amp; Cullity, 2003).
+
+As OSS has gained usage momentum beyond small bands of individual contributors into the masses at large, the need to understand how maintainable motivation for those contributors works. In this talk, Justin Ribeiro explores the current state of the research regarding motivations in OSS as well with a look forwards towards the impact of free riders and how their behavior affects the nature of contribution from authors within OSS.
+
+</abstract>
+<description>Researchers have grown accustomed to exploring the depths of open source software as a public good. The collective action model applies given the nature of provisioning—open source software is non-excludable and non-rivalry (Hippel &amp; Krogh, 2003). Individual contributors author software or code that they and the public at large have free access to utilize as they see fit, while the group can use the software or code without contributing. Given the non-excludability of open source software, this creates free riders—those who benefit from that good on equal terms with those who contribute (Hardin &amp; Cullity, 2003).
+
+As OSS has gained usage momentum beyond small bands of individual contributors into the masses at large, the need to understand how maintainable motivation for those contributors works. In this talk, Justin Ribeiro explores the current state of the research regarding motivations in OSS as well with a look forwards towards the impact of free riders and how their behavior affects the nature of contribution from authors within OSS.
+
+</description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='1419'>justinribeiro</person>
+</persons>
+</event>
+<event guid='6XZrvkEeLselqWXLnk7mwA' id='905'>
+<date>2022-11-04T04:55:00-07:00</date>
+<start>11:55</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>905-the-internet-is-unusable-the-disabled-view</slug>
+<title>The internet is unusable: The disabled view.</title>
+<subtitle></subtitle>
+<track></track>
+<abstract>Web accessibility aims at making the web more usable for disabled folks. We tend to think about accessibility from the perspective of only a few groups. Blind screen reader users or deaf users, to name a couple. But there are many different groups, relying on different assistive technologies, who benefit from accessibility. 
+
+I will feature important aspects of accessibility that aren&#39;t as well know as others. And I will use findings from usability testing  as well as quotes from disabled users about the barriers they experience on the web. Because disabled folks are the best people to explain what makes using the web difficult or painful for them.</abstract>
+<description>Web accessibility aims at making the web more usable for disabled folks. We tend to think about accessibility from the perspective of only a few groups. Blind screen reader users or deaf users, to name a couple. But there are many different groups, relying on different assistive technologies, who benefit from accessibility. 
+
+I will feature important aspects of accessibility that aren&#39;t as well know as others. And I will use findings from usability testing  as well as quotes from disabled users about the barriers they experience on the web. Because disabled folks are the best people to explain what makes using the web difficult or painful for them.</description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='1431'>vavroom</person>
+</persons>
+</event>
+<event guid='3a2EDmC0LnEle7p08Q--XA' id='887'>
+<date>2022-11-04T06:30:00-07:00</date>
+<start>13:30</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>887-cross-pollinate-your-volunteering</slug>
+<title>Cross-Pollinate Your Volunteering</title>
+<subtitle></subtitle>
+<track></track>
+<abstract>Become a better volunteer and maybe even a better person by diversifying the kind of organizations you volunteer for. It sometimes feels like FOSS non-profits are re-inventing the wheel with regards to tasks like outreach, volunteer recruitment and retention, community governance and strategic planning. But mission based work has been around for a long, long time and so there&#39;s a huge community of non-technical practitioners building community. The value of cross-pollination goes both ways, you can help less technical non-profits think clearly about the role technology plays in their work, while learning about the organizational skills that every volunteer-driven project relies on.
+
+The speaker will discuss the joys of mixing up your volunteering for your own benefit and for the benefit of all the places you give your time to. If you&#39;re up for thinking deeply about the kind of volunteer you want to be over the course of your life, then this talk is for you. </abstract>
+<description>Become a better volunteer and maybe even a better person by diversifying the kind of organizations you volunteer for. It sometimes feels like FOSS non-profits are re-inventing the wheel with regards to tasks like outreach, volunteer recruitment and retention, community governance and strategic planning. But mission based work has been around for a long, long time and so there&#39;s a huge community of non-technical practitioners building community. The value of cross-pollination goes both ways, you can help less technical non-profits think clearly about the role technology plays in their work, while learning about the organizational skills that every volunteer-driven project relies on.
+
+The speaker will discuss the joys of mixing up your volunteering for your own benefit and for the benefit of all the places you give your time to. If you&#39;re up for thinking deeply about the kind of volunteer you want to be over the course of your life, then this talk is for you. </description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='32'>Deb Nicholson</person>
+</persons>
+</event>
+<event guid='oXHUHN19yPXhDjskM14bUw' id='915'>
+<date>2022-11-04T07:15:00-07:00</date>
+<start>14:15</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>915-gulls-do-gull-using-node-d3-react-and-occasionally-grep-to-get-insight-into-bird-subspecies-distribution</slug>
+<title>Gulls do gull: Using Node, D3, React and occasionally grep to get insight into bird subspecies distribution</title>
+<subtitle>And why subspecies are just as important as subtitles</subtitle>
+<track>Miscellaneous</track>
+<abstract>Birdwatching is the art of looking at birds; birding is the art of naming them. And subspecies identification is the nerdy Sarlacc pit of bird identification. In this talk, I&#39;ll talk about how I have over-engineered ways of getting bird subspecies distribution data from the community science site eBird, by using Node.js, React.js, D3.js, and occasionally other things like jq, grep, and plain old vim. I&#39;ll talk about how this is hard, as a hobbyist. I&#39;ll also briefly go into what subspecies are, the book I&#39;m working on how to better know a subspecies, and what fun subspecies to look for if you&#39;re in the Seattle area and you like birds. And yes, there will be seagulls. </abstract>
+<description>Birdwatching is the art of looking at birds; birding is the art of naming them. And subspecies identification is the nerdy Sarlacc pit of bird identification. In this talk, I&#39;ll talk about how I have over-engineered ways of getting bird subspecies distribution data from the community science site eBird, by using Node.js, React.js, D3.js, and occasionally other things like jq, grep, and plain old vim. I&#39;ll talk about how this is hard, as a hobbyist. I&#39;ll also briefly go into what subspecies are, the book I&#39;m working on how to better know a subspecies, and what fun subspecies to look for if you&#39;re in the Seattle area and you like birds. And yes, there will be seagulls. </description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='1155'>Richard Littauer</person>
+</persons>
+</event>
+<event guid='10jpsffpC20EFep7Itw6xA' id='903'>
+<date>2022-11-04T08:45:00-07:00</date>
+<start>15:45</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>903-firefox-multi-account-containers</slug>
+<title>Firefox: Multi-Account Containers</title>
+<subtitle></subtitle>
+<track>Tools</track>
+<abstract>Firefox Multi-Account Containers (FMAC) is a great tool for isolating web sites in a browser session.
+
+FMAC can simplify using accounts on the same multiple web site in the browser.
+
+The addon is from the Firefox project.
+
+FMAC uses containers to block cookies in one tab from accessing cookies in other tabs.
+
+Attendees will know:
+
+* Firefox add-ons
+* Firefox containers
+* browser privacy
+* browser security
+* browser cookies
+* walled garden containers</abstract>
+<description>Firefox Multi-Account Containers (FMAC) is a great tool for isolating web sites in a browser session.
+
+FMAC can simplify using accounts on the same multiple web site in the browser.
+
+The addon is from the Firefox project.
+
+FMAC uses containers to block cookies in one tab from accessing cookies in other tabs.
+
+Attendees will know:
+
+* Firefox add-ons
+* Firefox containers
+* browser privacy
+* browser security
+* browser cookies
+* walled garden containers</description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='363'>der.hans</person>
 </persons>
 </event>
 </room>
@@ -318,209 +492,6 @@ Whether you&#39;re already part of a project using voting software and want to k
 </persons>
 </event>
 </room>
-<room name='Room 2'>
-<event guid='ewnrqulGKHqmE-ZH_P_nxA' id='909'>
-<date>2022-11-04T02:40:00-07:00</date>
-<start>09:40</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>909-struggles-and-possible-solutions-of-a-local-free-software-movement</slug>
-<title>Struggles and possible solutions of a local free software movement</title>
-<subtitle>Trying to advocate the free software movement locally has its own struggles and sharing can help the ones who experience similar situations.</subtitle>
-<track>Community</track>
-<abstract>This talk will be based on my experience as a member of the Free Software Association in Turkey. In a local freedom movement, many local factors affect the way that advocacy should be made, such as economical disadvantages, priorities, country dynamics, and the target audience. It is not always feasible to bring software freedom to the table in a country with low digital literacy and major political conflicts. For years, we have defined the problem and come up with some possible solutions, such as inviting already politicised groups to our movement and explaining software freedom in terms of their struggles, that may help other local communities too. Additionally, the Q&amp;A section will allow the audience to share their struggles and discuss possible solutions. The goal of this talk is to help other local communities find possible reasons for their struggles, to show that these struggles are not specific to them, to give them some ideas about possible solutions, and to be inspired by suggestions of the audience.</abstract>
-<description>This talk will be based on my experience as a member of the Free Software Association in Turkey. In a local freedom movement, many local factors affect the way that advocacy should be made, such as economical disadvantages, priorities, country dynamics, and the target audience. It is not always feasible to bring software freedom to the table in a country with low digital literacy and major political conflicts. For years, we have defined the problem and come up with some possible solutions, such as inviting already politicised groups to our movement and explaining software freedom in terms of their struggles, that may help other local communities too. Additionally, the Q&amp;A section will allow the audience to share their struggles and discuss possible solutions. The goal of this talk is to help other local communities find possible reasons for their struggles, to show that these struggles are not specific to them, to give them some ideas about possible solutions, and to be inspired by suggestions of the audience.</description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='1436'>Neslihan Turan</person>
-</persons>
-</event>
-<event guid='KSh0klDTQlBCJJoDLZAheA' id='882'>
-<date>2022-11-04T03:25:00-07:00</date>
-<start>10:25</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>882-free-riders-and-the-motivations-that-keep-oss-developers-writing-code</slug>
-<title>Free-Riders and the Motivations that Keep OSS Developers Writing Code</title>
-<subtitle>A Look at the Collective Action Problem</subtitle>
-<track>Community</track>
-<abstract>Researchers have grown accustomed to exploring the depths of open source software as a public good. The collective action model applies given the nature of provisioning—open source software is non-excludable and non-rivalry (Hippel &amp; Krogh, 2003). Individual contributors author software or code that they and the public at large have free access to utilize as they see fit, while the group can use the software or code without contributing. Given the non-excludability of open source software, this creates free riders—those who benefit from that good on equal terms with those who contribute (Hardin &amp; Cullity, 2003).
-
-As OSS has gained usage momentum beyond small bands of individual contributors into the masses at large, the need to understand how maintainable motivation for those contributors works. In this talk, Justin Ribeiro explores the current state of the research regarding motivations in OSS as well with a look forwards towards the impact of free riders and how their behavior affects the nature of contribution from authors within OSS.
-
-</abstract>
-<description>Researchers have grown accustomed to exploring the depths of open source software as a public good. The collective action model applies given the nature of provisioning—open source software is non-excludable and non-rivalry (Hippel &amp; Krogh, 2003). Individual contributors author software or code that they and the public at large have free access to utilize as they see fit, while the group can use the software or code without contributing. Given the non-excludability of open source software, this creates free riders—those who benefit from that good on equal terms with those who contribute (Hardin &amp; Cullity, 2003).
-
-As OSS has gained usage momentum beyond small bands of individual contributors into the masses at large, the need to understand how maintainable motivation for those contributors works. In this talk, Justin Ribeiro explores the current state of the research regarding motivations in OSS as well with a look forwards towards the impact of free riders and how their behavior affects the nature of contribution from authors within OSS.
-
-</description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='1419'>justinribeiro</person>
-</persons>
-</event>
-<event guid='-FYBJ2w8fDc49MyWcgrqHg' id='889'>
-<date>2022-11-04T04:10:00-07:00</date>
-<start>11:10</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>889-the-struggle-of-getting-an-open-source-community-off-the-ground</slug>
-<title>The struggle of getting an open-source community off the ground</title>
-<subtitle></subtitle>
-<track>Community</track>
-<abstract>
-Having an open-source project is great, but if no one is using it, there doesn’t seem to be much point in working on it, right? Lots of open-source projects are small and easy to integrate into your workflow, and so communities quickly form around them organically. But when you have a bigger project that requires some knowledge and buy-in, and a specific need, how do you get people enthusiastic and involved in your project?
-
-In this talk, we’ll discuss how to start an open-source community from the ground up, and how to leverage your existing users and spaces. Attendees will come away with ideas and plans for how to take their project to the next level and get people excited and involved. 
-</abstract>
-<description>
-Having an open-source project is great, but if no one is using it, there doesn’t seem to be much point in working on it, right? Lots of open-source projects are small and easy to integrate into your workflow, and so communities quickly form around them organically. But when you have a bigger project that requires some knowledge and buy-in, and a specific need, how do you get people enthusiastic and involved in your project?
-
-In this talk, we’ll discuss how to start an open-source community from the ground up, and how to leverage your existing users and spaces. Attendees will come away with ideas and plans for how to take their project to the next level and get people excited and involved. 
-</description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='1426'>Alanna Burke</person>
-</persons>
-</event>
-<event guid='6XZrvkEeLselqWXLnk7mwA' id='905'>
-<date>2022-11-04T04:55:00-07:00</date>
-<start>11:55</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>905-the-internet-is-unusable-the-disabled-view</slug>
-<title>The internet is unusable: The disabled view.</title>
-<subtitle></subtitle>
-<track></track>
-<abstract>Web accessibility aims at making the web more usable for disabled folks. We tend to think about accessibility from the perspective of only a few groups. Blind screen reader users or deaf users, to name a couple. But there are many different groups, relying on different assistive technologies, who benefit from accessibility. 
-
-I will feature important aspects of accessibility that aren&#39;t as well know as others. And I will use findings from usability testing  as well as quotes from disabled users about the barriers they experience on the web. Because disabled folks are the best people to explain what makes using the web difficult or painful for them.</abstract>
-<description>Web accessibility aims at making the web more usable for disabled folks. We tend to think about accessibility from the perspective of only a few groups. Blind screen reader users or deaf users, to name a couple. But there are many different groups, relying on different assistive technologies, who benefit from accessibility. 
-
-I will feature important aspects of accessibility that aren&#39;t as well know as others. And I will use findings from usability testing  as well as quotes from disabled users about the barriers they experience on the web. Because disabled folks are the best people to explain what makes using the web difficult or painful for them.</description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='1431'>vavroom</person>
-</persons>
-</event>
-<event guid='3a2EDmC0LnEle7p08Q--XA' id='887'>
-<date>2022-11-04T06:30:00-07:00</date>
-<start>13:30</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>887-cross-pollinate-your-volunteering</slug>
-<title>Cross-Pollinate Your Volunteering</title>
-<subtitle></subtitle>
-<track></track>
-<abstract>Become a better volunteer and maybe even a better person by diversifying the kind of organizations you volunteer for. It sometimes feels like FOSS non-profits are re-inventing the wheel with regards to tasks like outreach, volunteer recruitment and retention, community governance and strategic planning. But mission based work has been around for a long, long time and so there&#39;s a huge community of non-technical practitioners building community. The value of cross-pollination goes both ways, you can help less technical non-profits think clearly about the role technology plays in their work, while learning about the organizational skills that every volunteer-driven project relies on.
-
-The speaker will discuss the joys of mixing up your volunteering for your own benefit and for the benefit of all the places you give your time to. If you&#39;re up for thinking deeply about the kind of volunteer you want to be over the course of your life, then this talk is for you. </abstract>
-<description>Become a better volunteer and maybe even a better person by diversifying the kind of organizations you volunteer for. It sometimes feels like FOSS non-profits are re-inventing the wheel with regards to tasks like outreach, volunteer recruitment and retention, community governance and strategic planning. But mission based work has been around for a long, long time and so there&#39;s a huge community of non-technical practitioners building community. The value of cross-pollination goes both ways, you can help less technical non-profits think clearly about the role technology plays in their work, while learning about the organizational skills that every volunteer-driven project relies on.
-
-The speaker will discuss the joys of mixing up your volunteering for your own benefit and for the benefit of all the places you give your time to. If you&#39;re up for thinking deeply about the kind of volunteer you want to be over the course of your life, then this talk is for you. </description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='32'>Deb Nicholson</person>
-</persons>
-</event>
-<event guid='oXHUHN19yPXhDjskM14bUw' id='915'>
-<date>2022-11-04T07:15:00-07:00</date>
-<start>14:15</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>915-gulls-do-gull-using-node-d3-react-and-occasionally-grep-to-get-insight-into-bird-subspecies-distribution</slug>
-<title>Gulls do gull: Using Node, D3, React and occasionally grep to get insight into bird subspecies distribution</title>
-<subtitle>And why subspecies are just as important as subtitles</subtitle>
-<track>Miscellaneous</track>
-<abstract>Birdwatching is the art of looking at birds; birding is the art of naming them. And subspecies identification is the nerdy Sarlacc pit of bird identification. In this talk, I&#39;ll talk about how I have over-engineered ways of getting bird subspecies distribution data from the community science site eBird, by using Node.js, React.js, D3.js, and occasionally other things like jq, grep, and plain old vim. I&#39;ll talk about how this is hard, as a hobbyist. I&#39;ll also briefly go into what subspecies are, the book I&#39;m working on how to better know a subspecies, and what fun subspecies to look for if you&#39;re in the Seattle area and you like birds. And yes, there will be seagulls. </abstract>
-<description>Birdwatching is the art of looking at birds; birding is the art of naming them. And subspecies identification is the nerdy Sarlacc pit of bird identification. In this talk, I&#39;ll talk about how I have over-engineered ways of getting bird subspecies distribution data from the community science site eBird, by using Node.js, React.js, D3.js, and occasionally other things like jq, grep, and plain old vim. I&#39;ll talk about how this is hard, as a hobbyist. I&#39;ll also briefly go into what subspecies are, the book I&#39;m working on how to better know a subspecies, and what fun subspecies to look for if you&#39;re in the Seattle area and you like birds. And yes, there will be seagulls. </description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='1155'>Richard Littauer</person>
-</persons>
-</event>
-<event guid='10jpsffpC20EFep7Itw6xA' id='903'>
-<date>2022-11-04T08:45:00-07:00</date>
-<start>15:45</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>903-firefox-multi-account-containers</slug>
-<title>Firefox: Multi-Account Containers</title>
-<subtitle></subtitle>
-<track>Tools</track>
-<abstract>Firefox Multi-Account Containers (FMAC) is a great tool for isolating web sites in a browser session.
-
-FMAC can simplify using accounts on the same multiple web site in the browser.
-
-The addon is from the Firefox project.
-
-FMAC uses containers to block cookies in one tab from accessing cookies in other tabs.
-
-Attendees will know:
-
-* Firefox add-ons
-* Firefox containers
-* browser privacy
-* browser security
-* browser cookies
-* walled garden containers</abstract>
-<description>Firefox Multi-Account Containers (FMAC) is a great tool for isolating web sites in a browser session.
-
-FMAC can simplify using accounts on the same multiple web site in the browser.
-
-The addon is from the Firefox project.
-
-FMAC uses containers to block cookies in one tab from accessing cookies in other tabs.
-
-Attendees will know:
-
-* Firefox add-ons
-* Firefox containers
-* browser privacy
-* browser security
-* browser cookies
-* walled garden containers</description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='363'>der.hans</person>
-</persons>
-</event>
-</room>
 <room name='Social'>
 <event guid='UkR-3___xPiCwjv5pStsug' id='923'>
 <date>2022-11-04T08:00:00-07:00</date>
@@ -569,9 +540,9 @@ Attendees will know:
 <event guid='7mSrD286qYRQsG7ZO_3wzQ' id='922'>
 <date>2022-11-05T02:30:00-07:00</date>
 <start>09:30</start>
-<duration>00:20</duration>
+<duration>00:25</duration>
 <room>Keynotes</room>
-<type>Keynote</type>
+<type>Opening Keynote</type>
 <language>en</language>
 <slug>922-keynote-lorena-mesa</slug>
 <title>Keynote: Lorena Mesa</title>
@@ -604,6 +575,168 @@ Attendees will know:
 <optout>false</optout>
 </recording>
 <persons>
+</persons>
+</event>
+</room>
+<room name='Room 2'>
+<event guid='-FYBJ2w8fDc49MyWcgrqHg' id='889'>
+<date>2022-11-05T03:00:00-07:00</date>
+<start>10:00</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>889-the-struggle-of-getting-an-open-source-community-off-the-ground</slug>
+<title>The struggle of getting an open-source community off the ground</title>
+<subtitle></subtitle>
+<track>Community</track>
+<abstract>
+Having an open-source project is great, but if no one is using it, there doesn’t seem to be much point in working on it, right? Lots of open-source projects are small and easy to integrate into your workflow, and so communities quickly form around them organically. But when you have a bigger project that requires some knowledge and buy-in, and a specific need, how do you get people enthusiastic and involved in your project?
+
+In this talk, we’ll discuss how to start an open-source community from the ground up, and how to leverage your existing users and spaces. Attendees will come away with ideas and plans for how to take their project to the next level and get people excited and involved. 
+</abstract>
+<description>
+Having an open-source project is great, but if no one is using it, there doesn’t seem to be much point in working on it, right? Lots of open-source projects are small and easy to integrate into your workflow, and so communities quickly form around them organically. But when you have a bigger project that requires some knowledge and buy-in, and a specific need, how do you get people enthusiastic and involved in your project?
+
+In this talk, we’ll discuss how to start an open-source community from the ground up, and how to leverage your existing users and spaces. Attendees will come away with ideas and plans for how to take their project to the next level and get people excited and involved. 
+</description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='1426'>Alanna Burke</person>
+</persons>
+</event>
+<event guid='MO_sBu918qjLP_2kt_WnsQ' id='901'>
+<date>2022-11-05T03:45:00-07:00</date>
+<start>10:45</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>901-what-s-anonymity-worth</slug>
+<title>What&#39;s Anonymity Worth?</title>
+<subtitle></subtitle>
+<track>Security &amp; Privacy</track>
+<abstract>What is anonymity worth? What is lost when people who prefer or need to remain anonymous are excluded? How do platforms and communities respond to anonymity seekers? In this talk, I&#39;ll share results from a series of ten research projects to understand the reasons people seek anonymity, how and why anonymity-seekers are excluded from many online communities, and the value of leaving space for people to remain anonymous while participating. I&#39;ll conclude with an evaluation of the results of community efforts to manage participation from anonymous participants. You&#39;ll leave this talk with a series of specific steps you can take individually, in your community, and in your workplace.</abstract>
+<description>What is anonymity worth? What is lost when people who prefer or need to remain anonymous are excluded? How do platforms and communities respond to anonymity seekers? In this talk, I&#39;ll share results from a series of ten research projects to understand the reasons people seek anonymity, how and why anonymity-seekers are excluded from many online communities, and the value of leaving space for people to remain anonymous while participating. I&#39;ll conclude with an evaluation of the results of community efforts to manage participation from anonymous participants. You&#39;ll leave this talk with a series of specific steps you can take individually, in your community, and in your workplace.</description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='1069'>Kaylea Champion</person>
+</persons>
+</event>
+<event guid='FehIW2nKdZlEg6o26UkY0Q' id='888'>
+<date>2022-11-05T06:25:00-07:00</date>
+<start>13:25</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>888-grow-your-foss-project-with-this-one-weird-trick</slug>
+<title>Grow Your FOSS Project with this One Weird Trick</title>
+<subtitle></subtitle>
+<track></track>
+<abstract>The best and most reliable way to grow an open source project is to get really, really good at delegating. Maybe you don&#39;t think delegating is for you? New delegators might be tempted to delegate without documenting or without providing context. Or worse to give away the things that new folks can&#39;t or don&#39;t want to do. These behaviors lead to poor outcomes and can even leave projects unwilling to delegate again. 
+
+This talk covers why you want to take the time to learn to delegate well, how to set up your delegees for success and when to start thinking about delegating. Build a bigger, better, happier open source project with this one weird trick!</abstract>
+<description>The best and most reliable way to grow an open source project is to get really, really good at delegating. Maybe you don&#39;t think delegating is for you? New delegators might be tempted to delegate without documenting or without providing context. Or worse to give away the things that new folks can&#39;t or don&#39;t want to do. These behaviors lead to poor outcomes and can even leave projects unwilling to delegate again. 
+
+This talk covers why you want to take the time to learn to delegate well, how to set up your delegees for success and when to start thinking about delegating. Build a bigger, better, happier open source project with this one weird trick!</description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='32'>Deb Nicholson</person>
+</persons>
+</event>
+<event guid='4bgIdr86udOz5_0U6PIcnA' id='896'>
+<date>2022-11-05T07:10:00-07:00</date>
+<start>14:10</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>896-programmer-culture-the-odd-phenomenon-of-recreational-programming</slug>
+<title>Programmer Culture: The Odd Phenomenon of Recreational Programming</title>
+<subtitle></subtitle>
+<track>Tech Culture</track>
+<abstract>The term &quot;recreational programming&quot; may strike some people as a pure contradiction in terms. However, there are few more effective ways to learn something well than to play with it. Even up until the point that it breaks. Within programmers, there is a odd nexus where such concepts as esoteric languages, polyglot programs, and &quot;code golfing&quot; meet, cross over, and become horribly yet fascinatingly entangled. These pursuits, which strike many outsiders as intrinsically useless, instead reveal what happens when programming becomes, like art, an activity that is pursued for its own sake, and the ridiculous becomes the highest good. If you don&#39;t know how to program but want a deeper glimpse into the minds of those who do, then this talk is for you.
+</abstract>
+<description>The term &quot;recreational programming&quot; may strike some people as a pure contradiction in terms. However, there are few more effective ways to learn something well than to play with it. Even up until the point that it breaks. Within programmers, there is a odd nexus where such concepts as esoteric languages, polyglot programs, and &quot;code golfing&quot; meet, cross over, and become horribly yet fascinatingly entangled. These pursuits, which strike many outsiders as intrinsically useless, instead reveal what happens when programming becomes, like art, an activity that is pursued for its own sake, and the ridiculous becomes the highest good. If you don&#39;t know how to program but want a deeper glimpse into the minds of those who do, then this talk is for you.
+</description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='46'>Brian Raiter</person>
+</persons>
+</event>
+<event guid='JW4H_kcn_c8frVpEzS2akg' id='884'>
+<date>2022-11-05T07:55:00-07:00</date>
+<start>14:55</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>884-the-small-web</slug>
+<title>The Small Web</title>
+<subtitle>How the web got so complex &amp; what we can do about it.</subtitle>
+<track>Security &amp; Privacy</track>
+<abstract>Browser engines, and the expectations we place on them, have become incredibly complex. Leading to a situation where while all the dominant engines are nominally opensource it is impossible for practically anyone to exercise their software freedom over them. Except to make them even more complex, once you&#39;ve wrapped your head around their existing complexity!
+
+This talk will explore existing efforts to address the web&#39;s lack of reasonable scope, and demonstrate my own solution &quot;Rhapsode&quot;. And explore the potential for a web without JavaScript to better protect privacy &amp; work beautifully accross a wider range of devices.</abstract>
+<description>Browser engines, and the expectations we place on them, have become incredibly complex. Leading to a situation where while all the dominant engines are nominally opensource it is impossible for practically anyone to exercise their software freedom over them. Except to make them even more complex, once you&#39;ve wrapped your head around their existing complexity!
+
+This talk will explore existing efforts to address the web&#39;s lack of reasonable scope, and demonstrate my own solution &quot;Rhapsode&quot;. And explore the potential for a web without JavaScript to better protect privacy &amp; work beautifully accross a wider range of devices.</description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='1072'>Adrian Cochrane</person>
+</persons>
+</event>
+<event guid='Kay_hD14qWmhcQNveWdVIQ' id='881'>
+<date>2022-11-05T08:40:00-07:00</date>
+<start>15:40</start>
+<duration>00:30</duration>
+<room>Room 2</room>
+<type>20-Minute Talk</type>
+<language>en</language>
+<slug>881-self-hosting-simple-web-apps-with-traefik-and-docker-compose</slug>
+<title>Self-hosting Simple Web Apps With Traefik and Docker Compose</title>
+<subtitle></subtitle>
+<track></track>
+<abstract>In this talk, I will discuss the pros and cons of self-hosting web apps (such as Nextcloud, Airsonic, calibre-web) and how to simplify deployment with Traefik&#39;s reverse proxy implementation and publicly available docker containers.
+
+This presentation is targeted to folks with &quot;beginner to intermediate&quot; level knowledge. Attendees will benefit most if they have a basic understanding of:
+
+- what docker containers are
+- how to run services on a linux server
+- using a domain registrar and setting DNS records
+
+I plan to show and explain/walk-through a sample docker-compose.yml file to tie the abstract concepts to a real-world implementation.</abstract>
+<description>In this talk, I will discuss the pros and cons of self-hosting web apps (such as Nextcloud, Airsonic, calibre-web) and how to simplify deployment with Traefik&#39;s reverse proxy implementation and publicly available docker containers.
+
+This presentation is targeted to folks with &quot;beginner to intermediate&quot; level knowledge. Attendees will benefit most if they have a basic understanding of:
+
+- what docker containers are
+- how to run services on a linux server
+- using a domain registrar and setting DNS records
+
+I plan to show and explain/walk-through a sample docker-compose.yml file to tie the abstract concepts to a real-world implementation.</description>
+<recording>
+<license />
+<optout>false</optout>
+</recording>
+<persons>
+<person id='921'>Matt McGraw</person>
 </persons>
 </event>
 </room>
@@ -775,139 +908,6 @@ I am a new presenter, however, I have given this presentation previously at Phoe
 </persons>
 </event>
 </room>
-<room name='Room 2'>
-<event guid='MO_sBu918qjLP_2kt_WnsQ' id='901'>
-<date>2022-11-05T03:45:00-07:00</date>
-<start>10:45</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>901-what-s-anonymity-worth</slug>
-<title>What&#39;s Anonymity Worth?</title>
-<subtitle></subtitle>
-<track>Security &amp; Privacy</track>
-<abstract>What is anonymity worth? What is lost when people who prefer or need to remain anonymous are excluded? How do platforms and communities respond to anonymity seekers? In this talk, I&#39;ll share results from a series of ten research projects to understand the reasons people seek anonymity, how and why anonymity-seekers are excluded from many online communities, and the value of leaving space for people to remain anonymous while participating. I&#39;ll conclude with an evaluation of the results of community efforts to manage participation from anonymous participants. You&#39;ll leave this talk with a series of specific steps you can take individually, in your community, and in your workplace.</abstract>
-<description>What is anonymity worth? What is lost when people who prefer or need to remain anonymous are excluded? How do platforms and communities respond to anonymity seekers? In this talk, I&#39;ll share results from a series of ten research projects to understand the reasons people seek anonymity, how and why anonymity-seekers are excluded from many online communities, and the value of leaving space for people to remain anonymous while participating. I&#39;ll conclude with an evaluation of the results of community efforts to manage participation from anonymous participants. You&#39;ll leave this talk with a series of specific steps you can take individually, in your community, and in your workplace.</description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='1069'>Kaylea Champion</person>
-</persons>
-</event>
-<event guid='FehIW2nKdZlEg6o26UkY0Q' id='888'>
-<date>2022-11-05T06:25:00-07:00</date>
-<start>13:25</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>888-grow-your-foss-project-with-this-one-weird-trick</slug>
-<title>Grow Your FOSS Project with this One Weird Trick</title>
-<subtitle></subtitle>
-<track></track>
-<abstract>The best and most reliable way to grow an open source project is to get really, really good at delegating. Maybe you don&#39;t think delegating is for you? New delegators might be tempted to delegate without documenting or without providing context. Or worse to give away the things that new folks can&#39;t or don&#39;t want to do. These behaviors lead to poor outcomes and can even leave projects unwilling to delegate again. 
-
-This talk covers why you want to take the time to learn to delegate well, how to set up your delegees for success and when to start thinking about delegating. Build a bigger, better, happier open source project with this one weird trick!</abstract>
-<description>The best and most reliable way to grow an open source project is to get really, really good at delegating. Maybe you don&#39;t think delegating is for you? New delegators might be tempted to delegate without documenting or without providing context. Or worse to give away the things that new folks can&#39;t or don&#39;t want to do. These behaviors lead to poor outcomes and can even leave projects unwilling to delegate again. 
-
-This talk covers why you want to take the time to learn to delegate well, how to set up your delegees for success and when to start thinking about delegating. Build a bigger, better, happier open source project with this one weird trick!</description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='32'>Deb Nicholson</person>
-</persons>
-</event>
-<event guid='4bgIdr86udOz5_0U6PIcnA' id='896'>
-<date>2022-11-05T07:10:00-07:00</date>
-<start>14:10</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>896-programmer-culture-the-odd-phenomenon-of-recreational-programming</slug>
-<title>Programmer Culture: The Odd Phenomenon of Recreational Programming</title>
-<subtitle></subtitle>
-<track>Tech Culture</track>
-<abstract>The term &quot;recreational programming&quot; may strike some people as a pure contradiction in terms. However, there are few more effective ways to learn something well than to play with it. Even up until the point that it breaks. Within programmers, there is a odd nexus where such concepts as esoteric languages, polyglot programs, and &quot;code golfing&quot; meet, cross over, and become horribly yet fascinatingly entangled. These pursuits, which strike many outsiders as intrinsically useless, instead reveal what happens when programming becomes, like art, an activity that is pursued for its own sake, and the ridiculous becomes the highest good. If you don&#39;t know how to program but want a deeper glimpse into the minds of those who do, then this talk is for you.
-</abstract>
-<description>The term &quot;recreational programming&quot; may strike some people as a pure contradiction in terms. However, there are few more effective ways to learn something well than to play with it. Even up until the point that it breaks. Within programmers, there is a odd nexus where such concepts as esoteric languages, polyglot programs, and &quot;code golfing&quot; meet, cross over, and become horribly yet fascinatingly entangled. These pursuits, which strike many outsiders as intrinsically useless, instead reveal what happens when programming becomes, like art, an activity that is pursued for its own sake, and the ridiculous becomes the highest good. If you don&#39;t know how to program but want a deeper glimpse into the minds of those who do, then this talk is for you.
-</description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='46'>Brian Raiter</person>
-</persons>
-</event>
-<event guid='JW4H_kcn_c8frVpEzS2akg' id='884'>
-<date>2022-11-05T07:55:00-07:00</date>
-<start>14:55</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>884-the-small-web</slug>
-<title>The Small Web</title>
-<subtitle>How the web got so complex &amp; what we can do about it.</subtitle>
-<track>Security &amp; Privacy</track>
-<abstract>Browser engines, and the expectations we place on them, have become incredibly complex. Leading to a situation where while all the dominant engines are nominally opensource it is impossible for practically anyone to exercise their software freedom over them. Except to make them even more complex, once you&#39;ve wrapped your head around their existing complexity!
-
-This talk will explore existing efforts to address the web&#39;s lack of reasonable scope, and demonstrate my own solution &quot;Rhapsode&quot;. And explore the potential for a web without JavaScript to better protect privacy &amp; work beautifully accross a wider range of devices.</abstract>
-<description>Browser engines, and the expectations we place on them, have become incredibly complex. Leading to a situation where while all the dominant engines are nominally opensource it is impossible for practically anyone to exercise their software freedom over them. Except to make them even more complex, once you&#39;ve wrapped your head around their existing complexity!
-
-This talk will explore existing efforts to address the web&#39;s lack of reasonable scope, and demonstrate my own solution &quot;Rhapsode&quot;. And explore the potential for a web without JavaScript to better protect privacy &amp; work beautifully accross a wider range of devices.</description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='1072'>Adrian Cochrane</person>
-</persons>
-</event>
-<event guid='Kay_hD14qWmhcQNveWdVIQ' id='881'>
-<date>2022-11-05T08:40:00-07:00</date>
-<start>15:40</start>
-<duration>00:30</duration>
-<room>Room 2</room>
-<type>20-Minute Talk</type>
-<language>en</language>
-<slug>881-self-hosting-simple-web-apps-with-traefik-and-docker-compose</slug>
-<title>Self-hosting Simple Web Apps With Traefik and Docker Compose</title>
-<subtitle></subtitle>
-<track></track>
-<abstract>In this talk, I will discuss the pros and cons of self-hosting web apps (such as Nextcloud, Airsonic, calibre-web) and how to simplify deployment with Traefik&#39;s reverse proxy implementation and publicly available docker containers.
-
-This presentation is targeted to folks with &quot;beginner to intermediate&quot; level knowledge. Attendees will benefit most if they have a basic understanding of:
-
-- what docker containers are
-- how to run services on a linux server
-- using a domain registrar and setting DNS records
-
-I plan to show and explain/walk-through a sample docker-compose.yml file to tie the abstract concepts to a real-world implementation.</abstract>
-<description>In this talk, I will discuss the pros and cons of self-hosting web apps (such as Nextcloud, Airsonic, calibre-web) and how to simplify deployment with Traefik&#39;s reverse proxy implementation and publicly available docker containers.
-
-This presentation is targeted to folks with &quot;beginner to intermediate&quot; level knowledge. Attendees will benefit most if they have a basic understanding of:
-
-- what docker containers are
-- how to run services on a linux server
-- using a domain registrar and setting DNS records
-
-I plan to show and explain/walk-through a sample docker-compose.yml file to tie the abstract concepts to a real-world implementation.</description>
-<recording>
-<license />
-<optout>false</optout>
-</recording>
-<persons>
-<person id='921'>Matt McGraw</person>
-</persons>
-</event>
-</room>
 <room name='Social'>
 <event guid='ul5ap_cOVot9Zku1XOmjxQ' id='926'>
 <date>2022-11-05T05:10:00-07:00</date>
@@ -920,8 +920,8 @@ I plan to show and explain/walk-through a sample docker-compose.yml file to tie 
 <title>Event: No-Cook Lunch Hour</title>
 <subtitle></subtitle>
 <track></track>
-<abstract>Join us for a social lunch hour with other SeaGL attendees.  Bring your own lunch, order in, or make one of the recipes from our no-cook lunch cookbook here: &lt;insert link here&gt;</abstract>
-<description>Join us for a social lunch hour with other SeaGL attendees.  Bring your own lunch, order in, or make one of the recipes from our no-cook lunch cookbook here: &lt;insert link here&gt;</description>
+<abstract>Join us for a social lunch hour with other SeaGL attendees.  Bring your own lunch, order in, or make one of the recipes from our no-cook lunch cookbook here: [https://github.com/SeaGL/social-cookbook](https://github.com/SeaGL/social-cookbook)</abstract>
+<description>Join us for a social lunch hour with other SeaGL attendees.  Bring your own lunch, order in, or make one of the recipes from our no-cook lunch cookbook here: [https://github.com/SeaGL/social-cookbook](https://github.com/SeaGL/social-cookbook)</description>
 <recording>
 <license />
 <optout>false</optout>
@@ -936,12 +936,12 @@ I plan to show and explain/walk-through a sample docker-compose.yml file to tie 
 <room>Social</room>
 <type>Social Event</type>
 <language>en</language>
-<slug>925-evening-tails</slug>
-<title>Evening *tails</title>
+<slug>925-evening-mock-cocktails</slug>
+<title>Evening mock/cocktails</title>
 <subtitle></subtitle>
-<track>Social Event</track>
-<abstract>*tails</abstract>
-<description>*tails</description>
+<track></track>
+<abstract>Mock/cocktails</abstract>
+<description>Mock/cocktails</description>
 <recording>
 <license />
 <optout>false</optout>
